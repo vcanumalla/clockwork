@@ -1,0 +1,26 @@
+# dune exec ./tuple.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/vishalc/.cache/dune/db
+# Workspace root: /Users/vishalc/files/CS/projects/clockwork/ocaml
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/vishalc/files/CS/projects/clockwork/ocaml/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/vishalc/.opam/default/bin/ocamlc.opt -config > /var/folders/m8/7k3gt8_x05g082lmkymwzf2r0000gn/T/dune_636494_output
+$ (cd _build/default && /Users/vishalc/.opam/default/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I .tuple.eobjs/byte -I /Users/vishalc/.opam/default/lib/ounit2 -I /Users/vishalc/.opam/default/lib/ounit2/advanced -I /Users/vishalc/.opam/default/lib/seq -I /Users/vishalc/.opam/default/lib/stdlib-shims -no-alias-deps -opaque -o .tuple.eobjs/byte/dune__exe__Tuple.cmo -c -impl tuple.ml)
+$ (cd _build/default && /Users/vishalc/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I .tuple.eobjs/byte -I .tuple.eobjs/native -I /Users/vishalc/.opam/default/lib/ounit2 -I /Users/vishalc/.opam/default/lib/ounit2/advanced -I /Users/vishalc/.opam/default/lib/seq -I /Users/vishalc/.opam/default/lib/stdlib-shims -intf-suffix .ml -no-alias-deps -opaque -o .tuple.eobjs/native/dune__exe__Tuple.cmx -c -impl tuple.ml)
+$ (cd _build/default && /Users/vishalc/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -o tuple.exe /Users/vishalc/.opam/default/lib/ocaml/unix.cmxa -I /Users/vishalc/.opam/default/lib/ocaml /Users/vishalc/.opam/default/lib/stdlib-shims/stdlib_shims.cmxa /Users/vishalc/.opam/default/lib/ounit2/advanced/oUnitAdvanced.cmxa /Users/vishalc/.opam/default/lib/ounit2/oUnit.cmxa .tuple.eobjs/native/dune__exe__Tuple.cmx)

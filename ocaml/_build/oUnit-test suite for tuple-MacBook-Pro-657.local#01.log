@@ -1,0 +1,27 @@
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Start test test suite for tuple:0:test-is_point.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Test test suite for tuple:0:test-is_point is successful.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: End test test suite for tuple:0:test-is_point.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Start test test suite for tuple:2:test-add.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Test test suite for tuple:2:test-add is successful.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: End test test suite for tuple:2:test-add.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Start test test suite for tuple:3:test-sub.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Test test suite for tuple:3:test-sub is successful.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: End test test suite for tuple:3:test-sub.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Start test test suite for tuple:6:test-subzero.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Test test suite for tuple:6:test-subzero is successful.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: End test test suite for tuple:6:test-subzero.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Start test test suite for tuple:7:test-negate.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Test test suite for tuple:7:test-negate is successful.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: End test test suite for tuple:7:test-negate.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Start test test suite for tuple:10:test-div.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Test test suite for tuple:10:test-div is successful.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: End test test suite for tuple:10:test-div.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Start test test suite for tuple:11:test-mag1.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Test test suite for tuple:11:test-mag1 is successful.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: End test test suite for tuple:11:test-mag1.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Start test test suite for tuple:13:test-mag3.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Test test suite for tuple:13:test-mag3 is successful.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: End test test suite for tuple:13:test-mag3.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Start test test suite for tuple:16:test-norm2.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: Test test suite for tuple:16:test-norm2 is successful.
+2023-12-02T23:25:46+00:00 MacBook-Pro-657.local#01 I: End test test suite for tuple:16:test-norm2.
